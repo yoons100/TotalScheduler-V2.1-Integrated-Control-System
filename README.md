@@ -350,9 +350,19 @@ Example:
 - Red indicator = error or offline state  
 - Mobile error notification available (PRO option)  
 
-Tip:  
+Tip1:  
 A mini PC (e.g., Intel N150) is sufficient for the main system.  
 Remote access allows operation without monitor, keyboard, or mouse.  
+
+Tip2:  
+In Windows, MS Store apps may not be directly accessible like normal EXE applications.
+To create a shortcut for an installed app:
+
+* Right-click on the Windows Startup menu → Run
+* Type `shell:AppsFolder` and execute
+* Find the desired app in the opened folder and create a shortcut
+
+The created shortcut can be placed on the desktop or added to the Startup folder for automatic launch. 
 
 ---
 
