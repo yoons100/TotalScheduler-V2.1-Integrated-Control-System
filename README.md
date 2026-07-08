@@ -38,16 +38,16 @@ TotalScheduler는 PC, 빔프로젝터, 릴레이, 순차전원공급기 등을 �
 
 ## 1. 포함 기능 [Demo]
 
-- PC 제어 (WOL, RemotePowerV2 연동)  
-- BEAM 제어 (PJLink: power & shutter)  
-- TCP/UDP 명령 출력  
-- OSC 버튼 및 슬라이더 제어  
-- OSC 버튼 타임트리거 기능  
-- 요일별 자동 ALL ON/OFF 스케줄링  
-- WebServer 기반 내부망 모니터링  
-- OSC 인풋 그룹 제어 (TouchOSC 활용)  
-- 2주 데모 사용 가능  
-- trial.json 갱신으로 재사용 가능  
+- PC 제어 (ON/OFF - RemotePowerV2 이용)
+- BEAM 제어 (PJLink : power & shutter)
+- TCP/UDP 명령 출력 (순차전원공급기, 전동스크린등 TCP릴레이 제어)
+- OSC 버튼 및 슬라이더 제어 (영상프로그램 Cue, Opacity, Volume등)
+- OSC 버튼의 타임트리거 (시간에 따른 LED 밝기조절등)
+- 요일별 자동 ALL ON/OFF 스케줄링(ON/OFF는 모두 순차제어 됩니다)
+- 모바일/태블릿 등에서 WebUI로 내부망접속 모니터링
+- OSC Input 명령지원 (TouchOSC등 활용)
+- Demo 버전은 2주간 사용 가능 
+- trial key 갱신으로 재사용 가능
 
 ### 유료 옵션 기능 [PRO]
 
