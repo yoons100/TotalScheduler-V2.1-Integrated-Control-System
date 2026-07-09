@@ -63,7 +63,7 @@ TotalScheduler는 PC, 빔프로젝터, 릴레이, 순차전원공급기 등을 �
 
 ## 2. RemotePowerV2 구조
 제어되는 PC에 설치할 RemotePowerV2.zip을 다운 받으세요  
-<a href="https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases/download/V2.2-MS20/RemotePowerV2.zip">**Download RemotePowerV2.zip**</a>
+<a href="https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases/download/V2.2-MS20/RemotePowerV2.zip">**Download RemotePowerV2**</a>
 ```
 RemotePowerV2.zip
 ├ RemotePowerService/
