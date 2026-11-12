@@ -46,7 +46,7 @@ TotalScheduler는 PC, 빔프로젝터, 릴레이, 순차전원공급기 등을 �
 - 요일별 자동 ALL ON/OFF 스케줄링(ON/OFF는 모두 순차제어 됩니다)
 - 모바일/태블릿 등에서 WebUI로 내부망접속 모니터링
 - OSC Input 명령지원 (TouchOSC등 활용)
-- Demo 버전은 2주간 사용 가능 
+- Demo 버전은 1주간 사용 가능 
 - trial key 갱신으로 재사용 가능
 
 ### 유료 옵션 기능 [PRO]
@@ -224,7 +224,7 @@ It is designed for AV system automation in environments such as museums and exhi
 - Weekly automatic ALL ON/OFF scheduling  
 - WebServer for internal network monitoring via mobile/tablet  
 - Device group control via OSC input commands (TouchOSC compatible)  
-- Demo version available for 14 days  
+- Demo version available for 7 days  
 - Trial can be reset by renewing `trial.json`  
 
 ### Additional Features [PRO]
