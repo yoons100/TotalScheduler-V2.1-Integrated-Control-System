@@ -37,7 +37,7 @@ TotalScheduler는 PC, 빔프로젝터, 릴레이, 순차전원공급기 등을 �
 
 ## 1. 포함 기능 [Demo]
 
-- PC 제어 (ON/OFF - RemotePowerV2 이용)
+- PC 제어 (ON/OFF - RemotePower 이용)
 - BEAM 제어 (PJLink : power & shutter)
 - TCP/UDP 명령 출력 (순차전원공급기, 전동스크린등 TCP릴레이 제어)
 - OSC 버튼 및 슬라이더 제어 (영상프로그램 Cue, Opacity, Volume등)
@@ -62,9 +62,9 @@ TotalScheduler는 PC, 빔프로젝터, 릴레이, 순차전원공급기 등을 �
 
 ## 2. RemotePowerV2 구조
 제어되는 PC에 설치할 RemotePower를 다운 받으세요  
-<a href="https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases/tag/V2.1">**Download RemotePower**</a>
+<a href="https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases">**Download RemotePower**</a>
 ```
-RemotePowerV2.zip
+RemotePowerV3.0.zip
 ├ RemotePowerService/
 ├ RemoteState/
 ├ install_all.bat  #관리자 권한으로 실행(서비스,모니터링앱 설치 및 포트셋업)
@@ -78,10 +78,10 @@ RemotePowerV2.zip
 ### 첫 실행
 - 메인PC에서 TotalScheduler V2실행 (필요시 시작프로그램에 등록 후 사용)
 - 첫 실행시 보안관련 팝업이 뜰 수도 있음. 저작권 안내 팝업 1회 표시.
-- Setup 페이지에서 "Download RemotePowerV2"를 눌러 PC제어용 파일을 제어PC에 복사.
-- 제어되는 PC에 복사한 "RemotePowerV2.zip"을 압축풀어 C폴더에 넣고, "install_all.bat"을 관리자권한으로 실행.
+- Setup 페이지에서 "Download RemotePower"를 눌러 PC제어용 파일을 제어PC에 복사.
+- 제어되는 PC에 복사한 "RemotePowerV3.0.zip"을 압축풀어 C폴더에 넣고, "install_all.bat"을 관리자권한으로 실행.
 - "RemotePowerService"가 윈도우서비스로 등록되며, "RemoteState"가 시스템 트레이에 생김  
-  (설치 후 RemotePowerV2 폴더를 지우지 마세요)
+  (설치 후 RemotePowerV3.0 폴더를 지우지 마세요)
 - 메인PC의 TotalSchedulerV2 앱에서 Setup 페이지 -> 장비 등록
 
 ### 장비 등록
@@ -215,7 +215,7 @@ It is designed for AV system automation in environments such as museums and exhi
 
 ## 1. Features [Demo]
 
-- PC control (WOL, RemotePowerV2 integration)  
+- PC control (WOL, RemotePower integration)  
 - BEAM control (PJLink: power & shutter)  
 - TCP/UDP command output (control sequential power relays, etc.)  
 - OSC buttons and sliders (supports media software cues)  
@@ -240,9 +240,9 @@ It is designed for AV system automation in environments such as museums and exhi
 
 ## 2. RemotePower Structure (PC Control)
 Download RemotePower to install on the controlled PC  
-<a href="https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases/tag/V2.1">**Download RemotePower**</a>
+<a href="https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases">**Download RemotePower**</a>
 ```
-RemotePowerV2.zip
+RemotePowerV3.0.zip
 ├ RemotePowerService/
 ├ RemoteState/
 ├ install_all.bat # Monitoring, signal receiving, port setup, startup registration (Run as Administrator)
@@ -256,8 +256,8 @@ RemotePowerV2.zip
 
 - Run TotalScheduler V2 on the main PC (register as startup if needed)  
 - A security popup may appear on first run. Copyright notice is shown once  
-- In Setup page, click **"Download RemotePowerV2"** and copy files to target PC  
-- Extract `RemotePowerV2.zip` to `C:\` on the controlled PC  
+- In Setup page, click **"Download RemotePower"** and copy files to target PC  
+- Extract `RemotePowerV3.0.zip` to `C:\` on the controlled PC  
 - Run `install_all.bat` as Administrator  
 - `RemotePowerService` is installed as a Windows service  
 - `RemoteState` appears in the system tray  
