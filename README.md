@@ -1,4 +1,4 @@
-[![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases) [![Release](https://img.shields.io/badge/Release-V2.2--MS20-fc1ba6)](https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases) [![License](https://img.shields.io/github/license/yoons100/TotalScheduler-V2.1-Integrated-Control-System)](https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/blob/main/LICENSE)
+[![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases) [![Release](https://img.shields.io/badge/Release-V2.3--MS10-fc1ba6)](https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/releases) [![License](https://img.shields.io/github/license/yoons100/TotalScheduler-V2.1-Integrated-Control-System)](https://github.com/yoons100/TotalScheduler-V2.1-Integrated-Control-System/blob/main/LICENSE)
 
 
 # <img width="64" height="64" alt="total" src="https://github.com/user-attachments/assets/50c4bd65-1998-48be-b0b5-9c7bc7b12ffa" /> TotalScheduler V2 - [DEMO]
